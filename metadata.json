@@ -1,0 +1,8 @@
+{
+  "name": "MobiCraft AI - دستیار و آموزش تعمیرات موبایل و لپ‌تاپ",
+  "description": "سامانه هوشمند عیب‌یابی چندرسانه‌ای بردهای الکترونیکی موبایل و لپ‌تاپ، تحلیل تصاویر میکروسکوپ، آموزش گام‌به‌گام و مدیریت کارگاه تعمیرات",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
